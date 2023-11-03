@@ -6,7 +6,7 @@ This repo aims to update an existing RESTFUL API to graphql
 The repo is found here on the [Github Repo Page](https://github.com/tjansson-ui/BookSearchGraphQL)
 
 The deployed heroku link may be found [here](https://booksearchconversion-014bc77eef11.herokuapp.com)
-![Alt text](Develop/assets/landingPage.png)
+![Alt text](assets/landingPage.png)
 Unfortunately, the token seems to be broken. 
 
   ## Table of Contents
